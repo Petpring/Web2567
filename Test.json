@@ -1,0 +1,270 @@
+{
+    "subjects": [
+      {
+        "name": "English",
+        "questions": [
+          {
+            
+            "question": "What is the synonym of 'Happy'?",
+            "options": ["Sad", "Angry", "Joyful", "Lazy"],
+            "answer": 3
+          },
+          {
+            
+            "question": "Which sentence is correct?",
+            "options": [
+              "She don't like apples.",
+              "He doesn't likes oranges.",
+              "They doesn't have a car.",
+              "I don't have any money."
+            ],
+            "answer": 4
+          },
+          {
+            
+            "question": "Choose the correct spelling:",
+            "options": ["Accomodation", "Accommodation", "Acomodation", "Acommodation"],
+            "answer": 1
+          },
+          {
+            
+            "question": "What is the antonym of 'Strong'?",
+            "options": ["Weak", "Tough", "Firm", "Sturdy"],
+            "answer": 1
+          },
+          {
+            
+            "question": "Identify the verb in the sentence: 'She runs every morning.'",
+            "options": ["She", "Runs", "Every", "Morning"],
+            "answer": 2
+          },
+          {
+            
+            "question": "What is the plural form of 'Child'?",
+            "options": ["Childs", "Children", "Childrens", "Childer"],
+            "answer":2
+          },
+          {
+            
+            "question": "Which one is a correct question form?",
+            "options": [
+              "She likes pizza?",
+              "Do she likes pizza?",
+              "Does she like pizza?",
+              "She does like pizza?"
+            ],
+            "answer": 3
+          },
+          {
+            
+            "question": "What does 'Eager' mean?",
+            "options": ["Uninterested", "Excited", "Lazy", "Bored"],
+            "answer": 2
+          },
+          {
+            
+            "question": "Choose the correct article: 'He bought ___ umbrella.'",
+            "options": ["a", "an", "the", "no article"],
+            "answer": 2
+          },
+          {
+            
+            "question": "What is the past tense of 'Go'?",
+            "options": ["Goes", "Went", "Gone", "Go"],
+            "answer": 2
+          },
+          {
+            
+            "question": "Which one is a conjunction?",
+            "options": ["And", "Quickly", "Blue", "House"],
+            "answer": 1
+          },
+          {
+            
+            "question": "Complete the sentence: 'She ___ to the market yesterday.'",
+            "options": ["Go", "Goes", "Went", "Gone"],
+            "answer": 3
+          },
+          {
+            
+            "question": "What is the superlative form of 'Good'?",
+            "options": ["Gooder", "Goodest", "Better", "Best"],
+            "answer": 4
+          },
+          {
+            
+            "question": "Which word is a noun?",
+            "options": ["Beautiful", "Happiness", "Running", "Quickly"],
+            "answer": 2
+          },
+          {
+            
+            "question": "Choose the correct preposition: 'He is interested ___ music.'",
+            "options": ["At", "In", "On", "Of"],
+            "answer": 2
+          },
+          {
+            
+            "question": "What is the opposite of 'Always'?",
+            "options": ["Never", "Sometimes", "Often", "Usually"],
+            "answer": 1
+          },
+          {
+            
+            "question": "Which is a proper noun?",
+            "options": ["City", "Dog", "Paris", "Car"],
+            "answer": 3
+          },
+          {
+            
+            "question": "Complete the idiom: 'Piece of ___.'",
+            "options": ["Cake", "Bread", "Butter", "Candy"],
+            "answer": 1
+          },
+          {
+            
+            "question": "What is the synonym of 'Beautiful'?",
+            "options": ["Ugly", "Pretty", "Plain", "Dirty"],
+            "answer": 2
+          },
+          {
+            
+            "question": "What is the past participle of 'Eat'?",
+            "options": ["Eat", "Eats", "Ate", "Eaten"],
+            "answer": 4
+          },
+          {
+            
+            "question": "Which is a compound word?",
+            "options": ["House", "Notebook", "Quickly", "Happy"],
+            "answer": 2
+          },
+          {
+            
+            "question": "What is the antonym of 'Fast'?",
+            "options": ["Quick", "Slow", "Speedy", "Swift"],
+            "answer": 2
+          },
+          {
+            
+            "question": "Complete the sentence: 'He ___ his homework before dinner.'",
+            "options": ["Do", "Does", "Did", "Done"],
+            "answer": 3
+          },
+          {
+            
+            "question": "What is the plural of 'Mouse'?",
+            "options": ["Mouses", "Mouse", "Mice", "Mices"],
+            "answer": 3
+          },
+          {
+            
+            "question": "Choose the correct word: 'She is ___ a book.'",
+            "options": ["Read", "Reading", "Reads", "Readed"],
+            "answer": 2
+          },
+          {
+            
+            "question": "Which sentence uses the correct form of 'Their'?",
+            "options": [
+              "Their going to the park.",
+              "That is their car.",
+              "I will go over their.",
+              "Their is no food left."
+            ],
+            "answer": 2
+          },
+          {
+            
+            "question": "What is the meaning of 'Gigantic'?",
+            "options": ["Huge", "Tiny", "Fast", "Bright"],
+            "answer": 1
+          },
+          {
+            
+            "question": "What is the comparative form of 'Tall'?",
+            "options": ["Taller", "Tallest", "More tall", "Tall"],
+            "answer": 1
+          },
+          {
+            
+            "question": "Which is a verb?",
+            "options": ["Run", "Beautiful", "Happiness", "Fast"],
+            "answer": 1
+          },
+          {
+            
+            "question": "Choose the correct word: 'This is ___ pen.'",
+            "options": ["A", "An", "The", "None"],
+            "answer": 1
+          },
+          {
+            
+            "question": "What is the antonym of 'Cheap'?",
+            "options": ["Expensive", "Free", "Old", "Soft"],
+            "answer": 1
+          },
+          {
+            
+            "question": "What is the synonym of 'Quick'?",
+            "options": ["Slow", "Fast", "Careful", "Lazy"],
+            "answer": 2
+          },
+          {
+            
+            "question": "Complete the sentence: 'The sun rises in the ___.",
+            "options": ["West", "East", "North", "South"],
+            "answer": 2
+          },
+          {
+            
+            "question": "Which sentence is grammatically correct?",
+            "options": [
+              "She like ice cream.",
+              "They has a dog.",
+              "We are happy.",
+              "He go to school."
+            ],
+            "answer": 3
+          },
+          {
+            
+            "question": "Choose the correct word: 'I ___ to the store yesterday.'",
+            "options": ["Go", "Goes", "Went", "Gone"],
+            "answer": 3
+          },
+          {
+            
+            "question": "What is the plural of 'Tooth'?",
+            "options": ["Tooths", "Tooth", "Teeth", "Toothes"],
+            "answer": 3
+          },
+          {
+            
+            "question": "Which is a pronoun?",
+            "options": ["She", "House", "Run", "Blue"],
+            "answer":1
+          },
+          {
+            
+            "question": "What is the past tense of 'Write'?",
+            "options": ["Write", "Writes", "Wrote", "Written"],
+            "answer": 3
+          },
+          {
+            
+            "question": "Which is an adjective?",
+            "options": ["Quick", "Run", "Happiness", "Slowly"],
+            "answer": 1
+          },
+          {
+            
+            "question": "What is the synonym of 'Angry'?",
+            "options": ["Calm", "Furious", "Happy", "Sad"],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  }
+  
